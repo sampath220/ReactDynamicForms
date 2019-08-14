@@ -1,0 +1,111 @@
+.available{
+  padding: 50px;
+  width: 30%;
+  border: 1px solid black;
+  font-size: 25px;
+}
+.createform{
+  display: flex;
+  margin: 5px;
+}
+textarea {
+  border: 0;
+  outline: 0;
+  background: transparent;
+  border-bottom: 1px solid black;
+}
+.preview{
+  font-size: 15px;
+  display: flex;
+  text-align: center;
+ 
+}
+.Homepage{
+  list-style: none
+}
+.display{
+  padding: 30px;
+  width: 70%;
+  border: 2px solid blue;
+}
+
+.textbox{
+  font-size: 150%;
+  padding: 1%;
+}
+.formname{
+  font-size: 25px;
+  padding: 2px;
+  text-align: center;
+
+}
+.formbutton{
+  padding: 35px;
+  text-align: center;
+}
+.button{
+  background-color:green;
+  border: none;
+  color: white;
+  padding: 10px 20px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 10px;
+  margin: 4px 2px;
+  cursor: pointer;
+}
+.vertical-menu {
+  width: 200px;
+}
+
+.vertical-menu input {
+  background-color: #eee;
+  color: black;
+  display: block;
+  padding: 12px;
+  text-decoration: none;
+}
+
+.vertical-menu input:hover {
+  background-color: rgb(53, 233, 53);
+}
+
+.vertical-menu input.active {
+  background-color:green;
+}
+input{
+  margin: 5px;
+}
+.btn{
+  text-align: center!important;
+  
+  
+}
+.btn-primary{
+  background-color: slategray!important;
+  color:white!important;
+  cursor: pointer!important
+}
+.topnav {
+  background-color: blue;
+  overflow: hidden;
+  text-align: center;
+  padding: 10px;
+}
+.available span{
+  border: solid grey 2px;
+  cursor: pointer;
+  margin: 5px;
+  padding: 2px;
+  color: orangered;
+  background-color:rgba(226, 211, 211, 0.596)
+}
+.delete{
+  background-color: rgb(236, 20, 20);
+
+}
+label{
+  
+  padding: 5px;
+}
